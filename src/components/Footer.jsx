@@ -15,7 +15,7 @@ const SOCIAL_LINKS = [
 export default function Footer({
   name = "Paschaleen",
   tagline = "Health educator and medical storyteller, helping girls and women understand their bodies.",
-  email = "hello@example.com",
+  email = "nwachukwupaschaleen@gmail.com",
   navLinks = NAV_LINKS,
   socialLinks = SOCIAL_LINKS,
   year = new Date().getFullYear(),
