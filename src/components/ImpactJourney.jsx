@@ -1,6 +1,7 @@
 import { useState } from "react";
 import pas1 from "../assets/pas1.jpg";
-import pas3 from "../assets/pas3.jpg";
+import pas3 from "../assets/pas3.Jpg";
+import pas6 from "../assets/pas6.jpg";
 import out1 from "../assets/out1.jpg";
 import out2 from "../assets/out2.jpg";
 import out3 from "../assets/out3.jpg";
@@ -39,7 +40,7 @@ const DEFAULT_JOURNEY = [
     title: "Regional Advocacy Campaign",
     description:
       "Placeholder — describe the outreach: where it took place, who it reached, and what changed for them.",
-    image: pas1,
+    image: pas6,
     videoUrl: "",
   },
 ];
