@@ -39,7 +39,7 @@ const DEFAULT_JOURNEY = [
     title: "Regional Advocacy Campaign",
     description:
       "Placeholder — describe the outreach: where it took place, who it reached, and what changed for them.",
-    image: pas3,
+    image: pas1,
     videoUrl: "",
   },
 ];

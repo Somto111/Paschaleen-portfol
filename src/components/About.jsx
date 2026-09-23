@@ -1,7 +1,7 @@
-import pas6 from "../assets/pas6.jpg";
+import pas2 from "../assets/pas2.jpg";
 
 export default function About({
-  photo = pas6,
+  photo = pas2,
   greeting = "Hello, I'm Paschaleen,",
   roleLines = ["Medical", "Storyteller"],
   location = "based in Nigeria.",
